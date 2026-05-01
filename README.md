@@ -1,6 +1,6 @@
 # Elber Ribeiro
 
-Software engineer in Boca Raton, FL. Healthcare software at [ModMed](https://www.modmed.com)
+Senior software architect in Boca Raton, FL. Healthcare software at [ModMed](https://www.modmed.com)
 by day; cozy games and small experiments by night. On GitHub since 2009.
 
 Site: **[dynaum.com](https://dynaum.com)** &nbsp;·&nbsp; Email: **elber@dynaum.com**
