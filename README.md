@@ -19,6 +19,13 @@ without wincing.
 
 ### Currently building
 
+**[blog.dynaum.com](https://blog.dynaum.com)** &nbsp;·&nbsp; Eleventy · Markdown · GitHub Pages
+Field notes on building software and games with AI as a real collaborator —
+spec-first, not vibes. Static Eleventy site, posts are Markdown, deployed to
+GitHub Pages via Actions on push to `main`; subdomain is a `CNAME` record in
+the same `digitalocean-dns` Terraform repo as the apex. First post is the
+Lanterns build story, including the mid-project Canvas → Godot 4 engine switch.
+
 **[Lanterns](https://lanterns.dynaum.com)** &nbsp;·&nbsp; Godot 4 · GDScript · 1–2p local co-op
 A cozy bullet-heaven about a Keeper, a swarm of moths, and the soft light that
 holds the night together. Browser demo via a DigitalOcean Spaces + Cloudflare
